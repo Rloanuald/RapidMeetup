@@ -1,0 +1,8 @@
+{
+  "name": "SyncSphere: Group Meeting & Location Matcher",
+  "description": "Coordinate meeting times and locations for 5+ people with individual availability slots, commute preferences, automatic convenience ranking, and consensus voting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
